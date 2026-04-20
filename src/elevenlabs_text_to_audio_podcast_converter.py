@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from elevenlabs.client import ElevenLabs
-# from ..config.firebase_config import db
+# from config.firebase_config import db
 
 load_dotenv()
 
@@ -99,3 +99,4 @@ Goodbye.
     
     
     ElevenlabsTextToAudioPodcastConverter().convert_to_podcast(podcast_text)
+

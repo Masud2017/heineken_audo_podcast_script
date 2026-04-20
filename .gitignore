@@ -215,3 +215,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 heineken-project-541d5-firebase-adminsdk-fbsvc-d9d1fd237c.json
+*.gguf
